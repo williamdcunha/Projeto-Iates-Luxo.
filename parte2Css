@@ -1,0 +1,244 @@
+    * {
+                            margin: 0 px;
+                            column-fill;
+                            : 0 px
+                        }
+                        #id {
+                            width: 1100 px;
+                            margin: 0 px auto;
+                            color: ;
+                            or: #EBEBEB;
+                        }
+                        
+                        #top {
+                            flood-color: #1A3243;
+                            width: 980 px;
+                            margin: 0 px auto;
+                            height: 85 px;
+                        }
+                        
+                        # top-logo {
+                            floot: left;
+                            width: 250 px;
+                            height: 85 px;
+                            margin left: 10 px;
+                        }
+                        
+                        # top-logo-img {
+                            floot: left;
+                            margin top: 10 px;
+                            margin: left: 10 px;
+                        }
+                        
+                        # top-logo-texto {
+                            floot: true;
+                            width: 190 px;
+                            margin top: ;
+                            : 16 px;
+                        }
+                        
+                        # top-menu {
+                            floot: true;
+                            width: 640 px;
+                            heigth: 25 px;
+                            margin top: 51 px;
+                            margin right: 5 px;
+                        }
+                        
+                        # top-menu li {
+                            display: built-in block;
+                            margin left: 18 px;
+                            color: with;
+                            borda right: white solid 1 px;
+                            padding-right: 18 px;
+                        }
+                        
+                        # top-menu ul: last-child {
+                            edge right: 0 px white solid;
+                        }
+                        
+                        # top-menu ul: primeiro filho {
+                            color: # 1BB4E8;
+                        }
+                        
+                        h1 {
+                            font size: 23 px;
+                            color: branco;
+                            bottom family: Open Sans;
+                            style size: itálico;
+                        }
+                        
+                        h1: primeiro filho {
+                            color: # 1BB4E8;
+                        }
+                        
+                        ul {
+                            font-size: 13 px;
+                            color: white;
+                            bottom family: Open Sans;
+                            style li: nenhum;
+                        }
+                        
+                        #conteudo-img {
+                            width: 980 px;
+                            width: 495 px;
+                            margin: 0 px auto;
+                            margin inferior: 0 px;
+                            bottom img: url (.. / img / barcoprincipal.jpg);
+                        }
+                        
+                        #conteudo1 {
+                            border-bottom-color;
+                            : # 1a3243d3;
+                            floot: true;
+                            margin top: 220 px;
+                            margin right: 80 px;
+                            width: 380 px;
+                            height: 205 px;
+                        }
+                        
+                        #info1 {
+                            font size: 22 px;
+                            color: white;
+                            family-size: Open Sans;
+                            style-size: itálico;
+                            margin: 30 px;
+                        }
+                        
+                        #info-img {
+                            floot: left;
+                            margin top: 4 px;
+                            margin left: 30 px;
+                            width: 30 px;
+                        }
+                        
+                        #info2 {
+                            font-size: 17 px;
+                            color: white;
+                            family size: Open Sans;
+                            style size: itálico;
+                            floot: true;
+                            width: 284 px;
+                            margin right: 30 px;
+                        }
+                        
+                        #number {
+                            font-size: 20 px;
+                            color: # C6B07F;
+                        }
+                        
+                        #destino-frota {
+                            margin: 0 px auto;
+                            width: 980 px;
+                            height: 460 px;
+                            border-bottom-color: ;
+                            : white;
+                        }
+                        
+                        #destino {
+                            floot: left;
+                            width: 455 px;
+                            margin top: 20 px;
+                            margin left: 20 px;
+                        }
+                        
+                        #destino-img-h2 {
+                            border-bottom-color;
+                            : # 1BB4E8;
+                            height: 40 px;
+                            width: 455 px;
+                        }
+                        
+                        #destino-img {
+                            floot: left;
+                            margin left: 5 px;
+                            height: 40 px;
+                        }
+                        
+                        #titulo1 {
+                            family size: Open Sans;
+                            font-size: 15 px;
+                            style size: itálico;
+                            margin top: 20 px;
+                            margin upper: 20 px;
+                        }
+                        
+                        #destino-texto {
+                            family-size: Open Sans;
+                            font-size: 14 px;
+                            margin upper: 30 px;
+                        }
+                        
+                        #frota {
+                            floot: true;
+                            width: 455 px;
+                            margin top: 20 px;
+                            margin right: 20 px;
+                        }
+                        
+                        #frota-img-h2 {
+                            font-color: # C6B07F;
+                            height: 40 px;
+                            width: 455 px;
+                        }
+                        
+                        #frota-img {
+                            floot: left;
+                            margin left: 5 px;
+                            margin top: 3 px;
+                            height: 40 px;
+                        }
+                        
+                        #titulo2 {
+                            family-size: Open Sans;
+                            font-size: 15 px;
+                            style-size: itálico;
+                            margin-top: 20 px;
+                            margin-upper: 20 px;
+                        }
+                        
+                        #frota-texto {
+                            family-size: Open Sans;
+                            font-size: 14 px;
+                            margin upper: 30 px;
+                        }
+                        
+                        h2 {
+                            font-family: Open Sans;
+                            font-size: 22 px;
+                            style-size: itálico;
+                            color: white;
+                            floot: true;
+                            margin top: 8 px;
+                            width: 405 px;
+                        }
+                        
+                        #img1 {
+                            margin upper: 10 px;
+                            margin right: 10 px;
+                        }
+                        
+                        #floot: true;
+                        #rodape-texto {
+                            family-size: Open Sans;
+                            font-size: 12 px;
+                            margin top: 25 px;
+                            margin top: 22 px;
+                            margin left: 30 px;
+                        }
+                        
+                        #rodape {
+                            margin: 0 px auto;
+                            width: 980 px;
+                            height: 35 px;
+                            width: 1100 px;
+                            height: 55 px;
+                            bottom: rgb ( 128, 128, 128, 0, 534);
+                        }
+                        
+                        #rodape1 {
+                            bottom: # EBEBEB;
+                            edge: 1 px solid # EBEBEB;
+                            margin: 0 px auto;
+                            width: 980 px;
+                            height: 55 px;
